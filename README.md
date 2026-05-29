@@ -103,5 +103,3 @@ Thousands of research ideas fail before they begin. Common challenges include:
 - **Deployment**: Google Cloud Run
 
 ---
-
-## Project Structure
